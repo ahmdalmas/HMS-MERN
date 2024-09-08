@@ -40,9 +40,3 @@ npm i -g concurrently
 ```sh
 npm run dev
 ```
-## Contributing
-
-Contributions are always welcome!😊
-
-
-
